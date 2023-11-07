@@ -8,4 +8,4 @@
 
 Let's code, collaborate, and create a future we're all excited to live in! 💗
 
-![GIF](<iframe src="https://giphy.com/embed/eCqFYAVjjDksg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/funny-meme-hacker-eCqFYAVjjDksg">via GIPHY</a></p>)
+![GIF](https://giphy.com/embed/eCqFYAVjjDksg))
